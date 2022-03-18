@@ -74,6 +74,10 @@ class Index {
       <div class = "tutorial_content">
         <p>抛开软件类电报机器人中病毒、木马，以及盗号的风险暂且不说，每月费用动辄几百上千，而且必须包月、包年，大大增加了获客成本。而我们能够做到真正的<span class = "bold">【全网最低价】</span>，不仅单日价格低（每日最低1U），更重要的是可以<span class = "bold">按日付费</span>，可随时停用。</p>
       </div>
+      <div class = "tutorial_title">实时数据</div>
+      <div class = "tutorial_content">
+        <p>打开<a class = "tg_link" href = "../data/index.html" target = "_blank">实时数据</a>（点击打开），查看我们收录的部分数据，您可以看到每个关键字的搜索占比，按照需求设置所需关键字（由于数据量较大，仅展示近7天数据情况）。</p>
+      </div>
       <div class = "tutorial_title">找到我们</div>
       <div class = "tutorial_content">
         <p>您可以在电报中搜索<a class = "tg_link" href = "https://t.me/TgdarServicer" target = "_blank">@TgdarServicer</a>（点击打开）找到我们，并添加为联系人。</p>
